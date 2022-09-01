@@ -1,4 +1,4 @@
-# Rock-Oaper-Scissors game based on Python and Pandas
+# Rock-Paper-Scissors game based on Python and Pandas
 
 This game is a rock-paper-scissors game based on Python.
 
